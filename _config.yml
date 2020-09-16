@@ -17,22 +17,3 @@ gh_edit_repository: "https://github.com/librarieshacked/librarylab"
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
-collections:
-  libraries-at-home:
-    permalink: "/:collection/:path/"
-    output: true
-  mobile-libraries:
-    permalink: "/:collection/:path/"
-    output: true
-  library-map:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    libraries-at-home:
-      name: Libraries at home
-    mobile-libraries:
-      name: Mobile libraries
-    library-map:
-      name: Library map
