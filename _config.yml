@@ -3,7 +3,7 @@ remote_theme: pmarsceill/just-the-docs@v0.3.2
 color_scheme: "hacked"
 search_enabled: false
 
-logo: "/assets/images/logo.png"
+logo: "https://www.librarylab.uk/assets/images/logo.png"
 
 footer_content: ""
 
