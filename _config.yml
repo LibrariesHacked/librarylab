@@ -1,13 +1,9 @@
 title: "Library lab"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
-search_enabled: true
+search_enabled: false
 
 logo: "/assets/images/logo.png"
-
-aux_links:
-  "GitHub":
-    - "https://github.com/librarieshacked"
 
 footer_content: ""
 
@@ -17,3 +13,4 @@ gh_edit_repository: "https://github.com/librarieshacked/librarylab"
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
+color_scheme: hacked
