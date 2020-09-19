@@ -2,7 +2,7 @@
 layout: default
 title: Libraries at home
 nav_order: 2
-has_children: false
+has_children: true
 permalink: /docs/libraries-at-home
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Library map
 nav_order: 3
-has_children: false
+has_children: true
 permalink: /docs/library-map
 ---
 
