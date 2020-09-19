@@ -1,5 +1,5 @@
 title: "Library lab"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.3.2
 color_scheme: "light"
 search_enabled: false
 
