@@ -3,7 +3,7 @@ layout: default
 title: Find my library
 nav_order: 1
 has_children: false
-parent: Library map
+parent: "Prototype: Library map"
 permalink: /library-map/find-my-library
 ---
 
