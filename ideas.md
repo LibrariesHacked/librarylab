@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ideas
-nav_order: 1
+nav_order: 7
 has_children: false
 permalink: /ideas
 ---
@@ -11,6 +11,8 @@ permalink: /ideas
 A listing of ideas
 {: .fs-6 .fw-300 }
 
+Over the years this page should grow with ideas of projects.
+
 ## Submit an idea
 
-Anyone can submit an idea for library lab. It can either be something you simply want to happen, want to work on, or need to find people to collaborate on.
+Anyone can submit an idea for library lab. It can be something you simply want to happen, want to work on, or want to document your progress on here.

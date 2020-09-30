@@ -8,5 +8,9 @@ permalink: /about
 
 # About
 
-Contribute to this project as much or little as you like
+What is this and who is involved?
 {: .fs-6 .fw-300 }
+
+The initial setup of this site has been completed by Dave from [Libraries Hacked](https://blog.librarydata.uk). You can [contact me on Twitter](https://twitter.com/librarieshacked) or [send me an email](mailto:info@librarieshacked.org)
+
+All aspects of this project are open to change and contributors are very welcome. This site is [developed openly on GitHub](https://github.com/LibrariesHacked/librarylab) and each page has an 'Edit this page' link. If you would like to suggest changes, and are familiar with GitHub, you are welcome to do it through raising an issue in GitHub. If not familiar with that process, also feel free to get in touch by Twitter or email.
