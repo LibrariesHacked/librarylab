@@ -12,7 +12,7 @@ permalink: /
 Library lab is a set of prototype applications to create tools to aid the public in using their libraries
 {: .fs-6 .fw-300 }
 
-### Licence
+## Licence
 
 All Library lab projects are distributed using the MIT licence. See the licence file in each separate repository for details.
 
