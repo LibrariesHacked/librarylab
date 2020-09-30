@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Contribute
+title: About
 nav_order: 6
 has_children: false
-permalink: /contribute
+permalink: /about
 ---
 
-# Contribute
+# About
 
 Contribute to this project as much or little as you like
 {: .fs-6 .fw-300 }
-

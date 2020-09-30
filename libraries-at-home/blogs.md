@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Read blogs
-nav_order: 1
+nav_order: 3
 has_children: false
 parent: Libraries at home
 ---
