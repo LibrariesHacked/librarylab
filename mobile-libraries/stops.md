@@ -3,7 +3,7 @@ layout: default
 title: Find my stop
 nav_order: 1
 has_children: false
-parent: "Prototype: Mobile libraries"
+parent: "Prototype: mobile libraries"
 ---
 
 # Find my stop 

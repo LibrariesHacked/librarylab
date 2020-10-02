@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prototype: Libraries at home"
+title: "Prototype: libraries at home"
 nav_order: 3
 has_children: true
 permalink: /libraries-at-home

@@ -3,7 +3,7 @@ layout: default
 title: Read blogs
 nav_order: 3
 has_children: false
-parent: "Prototype: Libraries at home"
+parent: "Prototype: libraries at home"
 ---
 
 # Read blogs

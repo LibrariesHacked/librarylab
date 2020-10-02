@@ -3,7 +3,7 @@ layout: default
 title: Mobile vans
 nav_order: 2
 has_children: false
-parent: "Prototype: Mobile libraries"
+parent: "Prototype: mobile libraries"
 ---
 
 # Mobile vans

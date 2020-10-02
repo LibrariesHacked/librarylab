@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prototype: Library map"
+title: "Prototype: library map"
 nav_order: 4
 has_children: true
 permalink: /library-map

@@ -3,7 +3,7 @@ layout: default
 title: Watch library TV
 nav_order: 2
 has_children: false
-parent: "Prototype: Libraries at home"
+parent: "Prototype: libraries at home"
 ---
 
 # Watch library TV

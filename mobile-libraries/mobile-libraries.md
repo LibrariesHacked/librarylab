@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Prototype: Mobile libraries"
+title: "Prototype: mobile libraries"
 nav_order: 5
 has_children: true
 permalink: /mobile-libraries

@@ -3,7 +3,7 @@ layout: default
 title: Listen podcasts
 nav_order: 4
 has_children: false
-parent: "Prototype: Libraries at home"
+parent: "Prototype: libraries at home"
 ---
 
 # Listen podcasts
