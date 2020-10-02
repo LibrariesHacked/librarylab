@@ -3,7 +3,7 @@ layout: default
 title: Map of stops
 nav_order: 3
 has_children: false
-parent: Mobile libraries
+parent: "Prototype: Mobile libraries"
 ---
 
 # Map of stops

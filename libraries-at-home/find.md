@@ -3,7 +3,7 @@ layout: default
 title: Find service
 nav_order: 1
 has_children: false
-parent: Libraries at home
+parent: "Prototype: Libraries at home"
 ---
 
 # Find service
