@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ideas
-nav_order: 7
+nav_order: 2
 has_children: false
 permalink: /ideas
 ---
@@ -11,7 +11,7 @@ permalink: /ideas
 A listing of ideas
 {: .fs-6 .fw-300 }
 
-Over the years this page should grow with ideas of projects.
+Over the years this page will grow with ideas of projects.
 
 ## Submit an idea
 

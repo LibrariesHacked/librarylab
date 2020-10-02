@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Libraries at home
-nav_order: 2
+title: "Prototype: Libraries at home"
+nav_order: 3
 has_children: true
 permalink: /libraries-at-home
 ---
