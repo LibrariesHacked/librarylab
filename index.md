@@ -12,7 +12,7 @@ permalink: /
 A space to prototype applications that enhance the use of public libraries
 {: .fs-6 .fw-300 }
 
-There are few opportunities in public libraries to experiment with online applications. A lack of time, investment, and skills make this difficult. But many people have ideas and want to try things out. A prototype is a draft. It explores how something could work, look, the user experience, and the functionality.
+A prototype is a draft. It explores how something could work, look, the user experience, and the functionality.
 
 This space is to build a community around library prototypes.
 
