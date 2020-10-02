@@ -8,7 +8,7 @@ permalink: /about
 
 # About
 
-What is this and who is involved?
+What and who is this?
 {: .fs-6 .fw-300 }
 
 The initial setup of this site has been completed by Dave from [Libraries Hacked](https://blog.librarydata.uk). You can [contact me on Twitter](https://twitter.com/librarieshacked) or [send me an email](mailto:info@librarieshacked.org)
