@@ -14,7 +14,8 @@ A listing of ideas
 Over time this page will grow with ideas of projects.
 
 ### Libraries at home 
-In progress {: .label .label-green }
+In progress
+{: .label .label-green }
 
 **Description**. Provide a single portal for displaying key public information about UK library services.
 
