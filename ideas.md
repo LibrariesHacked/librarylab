@@ -13,11 +13,11 @@ A listing of ideas
 
 Over time this page will grow with ideas of projects.
 
-### Libraries at home 
-In progress
-{: .label .label-green }
+## Prototypes
 
-**Description**. Provide a single portal for displaying key public information about UK library services.
+### Libraries at home
+
+Provide a single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts.
 
 More information at the [libraries at home](/libraries-at-home) pages.
 
