@@ -12,9 +12,7 @@ permalink: /
 A space to prototype applications that enhance the use of public libraries
 {: .fs-6 .fw-300 }
 
-A prototype is a draft. It explores how something could work, look, the user experience, and the functionality.
-
-This space is to build a community around library prototypes.
+A prototype is a draft. It explores how something could work, look, the user experience, and the functionality. This space is to build a community around library prototypes.
 
 * List ideas that could be developed and shared
 * Find people that can fill any skill gaps in helping out with ideas
@@ -22,8 +20,8 @@ This space is to build a community around library prototypes.
 
 ## Principles
 
-1. Prioritise [digital accessibility](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction), data ethics, and privacy in all tech solutions
-2. Consider real problems faced by physical public libraries, library staff, and the public
+1. Prioritise [accessible services](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction), data ethics, and privacy in all tech solutions
+2. Consider real problems faced by the public using physical public libraries, and support library staff
 3. Ensure everyone with an interest can contribute, with no barrier to participation
 4. Involve people from all areas of interest of public libraries, including front-line staff and the public
 5. Ensure data is freely available for all as [open data](https://theodi.org/article/what-is-open-data-and-why-should-we-care/)
