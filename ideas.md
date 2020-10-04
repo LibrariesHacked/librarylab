@@ -17,13 +17,25 @@ Over time this page will grow with ideas of projects.
 
 ### Libraries at home
 
-Provide a single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts.
+| Title | Libraries at home |
+|-|-|
+| Description | A single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts. |
+| Online link | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
+| Documentation | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
+| Status | In progress |
+| Required | Designers, Testers, Accessibility expertise |
 
-More information at the [libraries at home](/libraries-at-home) pages.
+### Library map
+
+Provide a map of public libraries, including mobile library stops in the UK. This would work from open data published by all library authorities and provide users with a single view of libraries. It could also be used for analytical analysis of library locations. More information at the [library map](/library-map) pages.
+
+### Mobile libraries
+
+Provide a map of public libraries, including mobile library stops in the UK. This would work from open data published by all library authorities and provide users with a single view of libraries. It could also be used for analytical analysis of library locations. More information at the [library map](/library-map) pages.
 
 ## Submit an idea
 
-Anyone can submit an idea for library lab. It can be something you simply want to happen, want to work on, or want to document your progress on here.
+Anyone can submit an idea for library lab. It can be something you want to happen, want to work on, or want to document your progress on here.
 
 ### What should be part of the idea?
 

@@ -12,10 +12,10 @@ permalink: /
 A space to prototype applications that enhance the use of public libraries
 {: .fs-6 .fw-300 }
 
-A prototype is a draft. It explores how something could work, look, the user experience, and the functionality. This space is to build a community around library prototypes.
+A prototype is a draft. It explores how something could work, look, and function. This space is to build a community around library prototypes.
 
 * List ideas that could be developed and shared
-* Find people that can fill any skill gaps in helping out with ideas
+* Find people that can fill any skill gaps in helping out
 * Collaborate on work to develop prototypes into demonstrable applications
 
 ## Principles
