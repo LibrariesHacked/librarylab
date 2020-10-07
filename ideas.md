@@ -19,7 +19,7 @@ Over time this page will grow with ideas of projects.
 |-|-|
 | Description | A single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts. |
 | Online link | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
-| Documentation | [Librayr lab documentation](/libraries-at-home) |
+| Documentation | [Library lab documentation](/libraries-at-home) |
 | Status | In progress |
 | Required | Designers, Testers, Accessibility expertise |
 
