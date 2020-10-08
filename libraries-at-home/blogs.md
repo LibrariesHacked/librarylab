@@ -27,5 +27,5 @@ This page makes use of two fields in the [library services shared spreasheet](ht
 All the blog RSS feeds are combined together to display a list of the latest posts from library services.
 
 1. Posts are ordered into columns with the latest first
-2. The most recent 8 blogs are shown
-
+2. The 8 most recent blog posts are shown
+3. The post listing displays the title and author

@@ -17,5 +17,3 @@ Find information about your nearest library service such as website, online vide
 | Online link | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
 | Documentation | [Library lab documentation](/libraries-at-home) |
 | Status | In progress |
-| Required | Designers, Testers, Accessibility expertise |
-

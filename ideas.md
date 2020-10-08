@@ -11,7 +11,7 @@ permalink: /ideas
 A listing of ideas
 {: .fs-6 .fw-300 }
 
-Over time this page will grow with ideas of projects.
+Over time this page will grow with projects.
 
 ## Prototypes
 
@@ -21,7 +21,20 @@ Over time this page will grow with ideas of projects.
 | Online link | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
 | Documentation | [Library lab documentation](/libraries-at-home) |
 | Status | In progress |
-| Required | Designers, Testers, Accessibility expertise |
+
+| Title | Library map |
+|-|-|
+| Description | A map of libraries in the UK, including both static libraries and mobile library stops and vans. |
+| Online link | [Library map prototype](https://www.librarymap.co.uk/) |
+| Documentation | [Library lab documentation](/library-map) |
+| Status | In progress |
+
+| Title | Mobile libraries |
+|-|-|
+| Description | A single online presence for mobile library stops, routes, vans and timetables. Providing the public with digital tools to track their mobile library. |
+| Online link | [Library map prototype](https://www.mobilelibraries.org/) |
+| Documentation | [Library lab documentation](/mobile-libraries) |
+| Status | In progress |
 
 ## Submit an idea
 
@@ -32,7 +45,6 @@ Anyone can submit an idea for library lab. It can be something you want to happe
 1. Firstly, consider the principles listed on the [library lab home page](/). Do they match with your idea?
 2. Give the idea a snappy title
 3. Give the idea a short description (maybe 300 characters or so)
-4. Describe what help you might need with the idea
 
 ### How to submit the idea
 
