@@ -14,6 +14,9 @@ A space to prototype applications that enhance the use of public libraries
 
 A prototype is a draft. It explores how something could work, look, and function. This space is to build a community around library prototypes.
 
+![A photo of pinned paper wireframes for an app, showing a potential design process for creating a new system](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/homepage-design.jpg)
+<span>Photo by <a href="https://unsplash.com/@alvarordesign?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alvaro Reyes</a> on <a href="https://unsplash.com/s/photos/design?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 * List ideas that could be developed and shared
 * Find people that can fill any skills gaps
 * Collaborate on work to develop prototypes into demonstrable applications
