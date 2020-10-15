@@ -9,6 +9,16 @@ permalink: /library-map/map
 
 # Map of libraries
 
-View libraries across the UK in an interactive map and use map tools to display geographic data
+View libraries across the UK in an interactive map
 {: .fs-6 .fw-300 }
 
+The map page displays libraries and mobile library stops but also adds other geographic features such as:
+
+* Displaying library service boundary lines
+* Displaying mobile library route lines
+* Determining travel durations at different intervals to libraries and mobile library stops
+
+![A screenshot of the Map page on the library map site showing West Dunbartonshire libraries and mobile library stops](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-map-map.PNG)
+
+The screenshot of the library map prototype available at [Library map](https://www.librarymap.co.uk/)
+{: .fs-2 }

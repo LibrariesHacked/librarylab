@@ -20,10 +20,6 @@ The [find a service page on libraries at home](https://www.librariesathome.co.uk
 
 ## Instructions: find a service
 
-1. Enter any valid postcode into the postcode text field. Youcan then use the search icon button to trigger the search
-2. After a short wait, the library service should be displayed
-3. A list of links to further information about the library service will also be shown
-
-## Data
-
-Many of the fields in the [library services shared spreasheet](https://airtable.com/shrKkzYDUNMMM6qrJ) are used to display the data about a service, generally in the form of links to the relevant areas on the service website.
+1. Enter any valid postcode into the postcode text field. Then use the search icon button to trigger the search
+2. Optionally, by selecting the options cog you can configure the radius in miles you are interested in
+2. After a short wait, the libraries should be filtered to those within that radius
