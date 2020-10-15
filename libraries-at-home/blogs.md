@@ -15,8 +15,8 @@ This page provides a listing of the latest blogs from library services, automati
 
 ![A screenshot of the blogs page on the libraries at home site showing an example list of latest blog posts from library services](https://raw.githubusercontent.com/librariesHacked/librarylab/master/assets/images/prototype-librariesathome-read.PNG)
 
-The [blogs page on libraries at home](https://www.librariesathome.co.uk/read)
-{: .fs-1 }
+A screenshot of the [blogs page on libraries at home](https://www.librariesathome.co.uk/read)
+{: .fs-2 }
 
 ## Data
 

@@ -16,9 +16,9 @@ Over time this page will grow with projects.
 ![A photo of a labrador puppy](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/ideas-lab.jpg)
 
 "Labrador-Puppy" by tyleruk2000 is [licensed with CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-{: .fs-1 }
+{: .fs-2 }
 
-## Prototypes
+## Prototype ideas
 
 | Title | Libraries at home |
 |-|-|

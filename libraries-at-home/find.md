@@ -16,13 +16,13 @@ The find service page provides a quick lookup for library users to enter their p
 ![A screenshot of the Find page on the libraries at home site showing an example of searching for a bath and north east somerset postcode and finding details about the library service](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librariesathome-find.PNG)
 
 The [find a service page on libraries at home](https://www.librariesathome.co.uk/)
-{: .fs-1 }
+{: .fs-2 }
 
 ## Instructions: find a service
 
-1. Enter any valid postcode into the postcode text field. The search button will trigger the search
-2. The tool should report the library service
-3. A list of links to further information about the library service will be displayed
+1. Enter any valid postcode into the postcode text field. Youcan then use the search icon button to trigger the search
+2. After a short wait, the library service should be displayed
+3. A list of links to further information about the library service will also be shown
 
 ## Data
 

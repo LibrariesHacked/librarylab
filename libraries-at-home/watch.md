@@ -13,10 +13,10 @@ Watch the latest videos being posted by library services
 
 The library TV page compiles together videos from all library services that have a YouTube channel.
 
-![A screenshot of the Find page on the libraries at home site showing an example of searching for a bath and north east somerset postcode and finding details about the library service](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librariesathome-find.PNG)
+![A screenshot of the Find page on the libraries at home site showing an example of searching for a bath and north east somerset postcode and finding details about the library service](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librariesathome-watch.PNG)
 
 The [library TV page on libraries at home](https://www.librariesathome.co.uk/watch)
-{: .fs-1 }
+{: .fs-2 }
 
 ## Instructions: play a video
 
