@@ -18,7 +18,7 @@ View information about static libraries and mobile libraries stops in a searchab
 | Documentation | [Library lab documentation](/library-map) |
 | Status | In progress |
 
-![A screenshot of the Map page on the library map site showing West Dunbartonshire libraries and mobile library stops](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-map-map.PNG)
+![A screenshot of the Map page on the library map site showing West Dunbartonshire libraries and mobile library stops](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librarymap-map.PNG)
 
-The screenshot of the library map prototype available at [Library map](https://www.librarymap.co.uk/)
+A screenshot of the library map prototype available at [Library map](https://www.librarymap.co.uk/)
 {: .fs-2 }

@@ -16,7 +16,7 @@ The find my library page provides a quick lookup for library users to enter thei
 
 ![A screenshot of the Find a library page on the library map site showing an example of searching for a postcode in ](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librarymap-find.PNG)
 
-The [find a library page on library map](https://www.librarymap.co.uk/)
+A screenshot of the [find a library page on library map](https://www.librarymap.co.uk/)
 {: .fs-2 }
 
 ## Instructions: find a library

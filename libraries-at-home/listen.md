@@ -15,7 +15,7 @@ The listen page lists all the podcasts currently available from UK library servi
 
 ![A screenshot of the Listen page on the libraries at home site showing an example list of podcasts](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librariesathome-listen.PNG)
 
-The [listen to podcasts page on libraries at home](https://www.librariesathome.co.uk/listen)
+A screenshot of the [listen to podcasts page on libraries at home](https://www.librariesathome.co.uk/listen)
 {: .fs-2 }
 
 ## Data
