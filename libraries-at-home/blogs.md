@@ -8,10 +8,10 @@ parent: "Prototype: libraries at home"
 
 # Read blogs
 
-Read the latest blog posts from library services
+Read latest posts from library services
 {: .fs-6 .fw-300 }
 
-This page provides a listing of the latest blogs from library services, automatically updated through the use of [RSS feeds](https://en.wikipedia.org/wiki/RSS).
+This page provides a listing of the latest blog posts from library services, automatically updated through the use of [RSS feeds](https://en.wikipedia.org/wiki/RSS).
 
 ![A screenshot of the blogs page on the libraries at home site showing an example list of latest blog posts from library services](https://raw.githubusercontent.com/librariesHacked/librarylab/master/assets/images/prototype-librariesathome-read.PNG)
 
