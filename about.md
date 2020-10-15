@@ -6,10 +6,14 @@ has_children: false
 permalink: /about
 ---
 
-# About
+# About the lab
 
 What and who is this?
 {: .fs-6 .fw-300 }
+
+![A photo of a labrador puppy](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/about-lab.jpg)
+
+"Labrador-Snow" by tyleruk2000 is [licensed with CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 
 The initial setup of this site has been completed by Dave from [Libraries Hacked](https://blog.librarydata.uk). You can [contact me on Twitter](https://twitter.com/librarieshacked), or you can [send me an email](mailto:info@librarieshacked.org)
 
