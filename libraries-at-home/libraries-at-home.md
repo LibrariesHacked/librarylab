@@ -11,6 +11,11 @@ permalink: /libraries-at-home
 Find information about your nearest library service such as website, online videos, mobile apps, and contact details.
 {: .fs-6 .fw-300 }
 
+![A screenshot of the Find page on the libraries at home site showing an example of searching for a bath and north east somerset postcode and finding details about the library service](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/prototype-librariesathome-find.PNG)
+
+The screenshot of the libraries at home prototype available at [Libraries at home](https://www.librariesathome.co.uk/)
+{: .fs-1 }
+
 | Title | Libraries at home |
 |-|-|
 | Description | A single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts. |
