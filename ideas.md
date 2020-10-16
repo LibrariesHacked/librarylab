@@ -22,14 +22,14 @@ A lab having a play with a toy. Photo "Labrador-Puppy" by tyleruk2000 is [licens
 
 | Title | Libraries at home |
 |-|-|
-| Description | A single portal for displaying public information about UK library services. Particularly information for using library services at home such as ebooks, videos, blogs, and podcasts. |
+| Description | A single portal for displaying information about UK library services. Particularly for using library services at home such as ebooks, videos, blogs, and podcasts. |
 | Online link | [Libraries at home prototype](https://www.librariesathome.co.uk/) |
 | Documentation | [Library lab documentation](/libraries-at-home) |
 | Status | In progress |
 
 | Title | Library map |
 |-|-|
-| Description | A map of libraries in the UK, including both static libraries and mobile library stops and vans. |
+| Description | A map of libraries in the UK, including both static libraries, and mobile library stops. |
 | Online link | [Library map prototype](https://www.librarymap.co.uk/) |
 | Documentation | [Library lab documentation](/library-map) |
 | Status | In progress |

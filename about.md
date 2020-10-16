@@ -11,7 +11,7 @@ permalink: /about
 What and who is this?
 {: .fs-6 .fw-300 }
 
-![A photo of a labrador puppy](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/about-lab.jpg)
+![A photo of two labradors in the snow](https://raw.githubusercontent.com/LibrariesHacked/librarylab/master/assets/images/about-lab.jpg)
 
 A pair of labs in the snow. Photo "Labrador-Snow" by tyleruk2000 is [licensed with CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 {: .fs-2 }

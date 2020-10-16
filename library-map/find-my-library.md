@@ -22,8 +22,8 @@ A screenshot of the [find a library page on library map](https://www.librarymap.
 ## Instructions: find a library
 
 1. Enter any valid postcode into the postcode text field. Then use the search icon button to trigger the search
-2. After a short wait, the library service should be displayed
-3. A list of links to further information about the library service will also be shown
+2. Optionally, by selecting the options cog you can configure the radius in miles you are interested in
+2. After a short wait, the libraries should be filtered to those within that radius
 
 ## Data
 

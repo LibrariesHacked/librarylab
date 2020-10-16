@@ -11,7 +11,7 @@ parent: "Prototype: mobile libraries"
 View mobile libraries in an interactive map
 {: .fs-6 .fw-300 }
 
-The map page displays mobile library stops but also adds other geographic features such as:
+The map page displays mobile library stops, and adds other geographic features such as:
 
 * Library service boundaries
 * A 'live' estimation of the current location of the mobile libraries

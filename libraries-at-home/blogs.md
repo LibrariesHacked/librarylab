@@ -20,7 +20,7 @@ A screenshot of the [blogs page on libraries at home](https://www.librariesathom
 
 ## Data
 
-This page makes use of two fields in the [library services shared spreasheet](https://airtable.com/shrKkzYDUNMMM6qrJ).
+This page makes use of two fields in an online [library services shared spreasheet](https://airtable.com/shrKkzYDUNMMM6qrJ).
 
 * Blog RSS Feed
 * Blog URL
